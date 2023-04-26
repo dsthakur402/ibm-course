@@ -4,9 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
+# Author: Divyanshu Singh
 # Additional Authors:
-# A name
+# username : dsthakur402
 
 # Input:
 # p, principal amount
