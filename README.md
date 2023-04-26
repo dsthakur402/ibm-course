@@ -1,12 +1,11 @@
-# ibm-course
-In this course, i introduced to collaborative version control and popular Git platforms.  
+Introduction to Git and GitHub
+Simple Interest Calculator
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-
-## Author
-
-Divyanshu Singh is a student of B.Tech . He specializes in front-end development and has worked on projects for a variety of clients, from startups to large corporations.
-
-### Contact
-- Username: dsthakur402
-- Email: cgcdivyanshu@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/dsthakur402)
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+© 2022 XYZ, Inc.
